@@ -1,5 +1,5 @@
 # rs-hewan
 Program PKL mahasiswa, Reservasi Rumah Sakit Hewan Sumbar berbasis Website
 Bahasa Pemrograman PHP dan Database MySQL
-Versi PHP yang digunakan yaitu PHP versi 6
-Text editor yang digunakan yaitu Sublime Text 3
+Xampp versi 7.2.3
+Text Editor Sublime Text 3
